@@ -1,0 +1,17 @@
+{
+  "name": "ttwenty",
+  "productName": "TTwenty",
+  "version": "1.0.0",
+  "description": "An eye relaxing application that comes up in every 20 minutes and covers up whole screen for 20 seconds.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Manvendra Singh <manvendrask2@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2",
+    "electron-packager": "^8.6.0"
+  }
+}
